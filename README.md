@@ -53,3 +53,12 @@ Else
 ![Screenshot_2021-10-09-10-54-16-76_6012fa4d4ddec268fc5c7112cbb265e7__01](https://user-images.githubusercontent.com/75937169/138553497-ef7acd8e-1be0-4345-bb7d-51382c94c738.jpg)
 
 
+
+
+# OS
+------
+Imp links : <br /> 
+https://techgearoid.com/articles/difference-between-physical-cores-and-logical-processors/        <br /> 
+https://www.bbc.co.uk/bitesize/guides/zmb9mp3/revision/3     <br /> 
+https://www.makeuseof.com/tag/what-is-cpu-cache/      <br /> 
+https://searchstorage.techtarget.com/definition/cache-memory     <br /> 

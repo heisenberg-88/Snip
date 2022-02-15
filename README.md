@@ -68,3 +68,4 @@ https://searchstorage.techtarget.com/definition/cache-memory     <br />
 ------
 IMP LINKS <br />
 https://www.cloudflare.com/learning/
+https://www.tutorialandexample.com/static-routing

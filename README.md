@@ -71,3 +71,8 @@ IMP LINKS <br />
 https://www.cloudflare.com/learning/    <br /> 
 https://www.tutorialandexample.com/static-routing    <br /> 
 https://tutorialandexample.com/computer-network-tutorial   <br /> 
+
+# OOP
+---
+Imp Links <br/>
+https://fresh2refresh.com/cpp-tutorial/cpp-inheritance-access-control/ <br/>
